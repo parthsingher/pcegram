@@ -1,0 +1,89 @@
+*{
+    background-color: black;
+    color: rgba(240, 248, 255, 0.884);
+}
+.container{
+    height: 530px;
+    width: 320px;
+    border: 0.5px solid rgba(255, 255, 255, 0.664);
+    padding-top: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode';
+}
+.tagline{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.facebook-button{
+    background-color: rgb(69, 133, 852);
+    border-color: rgb(69, 133, 852);
+    padding-bottom: 5px;
+    margin: 15px;
+    width: 250px;
+    border-radius: 5px;
+}
+input{
+    margin: 7px;
+    height: 30px;
+    width: 250px;
+    border: 0.5px solid rgba(255, 255, 255, 0.664);
+    border-radius: 4px;
+    padding-left: 5px;
+}
+.signup-button{
+    color: white;
+    background-color: rgb(50, 133, 221);
+    border-color: rgb(50, 133, 221);
+    border-radius: 5px;
+    width: 250px;
+    margin-top: 15px;
+    height: 30px;
+    cursor: pointer;
+}
+.signup-button:hover{
+    color: white;
+    background-color: rgb(6, 68, 134);
+    border-color: rgb(6, 68, 134);
+    border-radius: 5px;
+    width: 250px;
+    margin-top: 15px;
+    height: 30px;
+    cursor: pointer;
+}
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.terms{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:12px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+.login{
+    width: 320px;
+    height: 30px;
+    padding-top: 15px;
+    border: 0.5px solid rgba(255, 255, 255, 0.664);
+    margin-top: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+}
+.foot{
+    text-decoration: none;
+    padding-right: 6px;
+    margin: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    color: rgba(255, 255, 255, 0.637);
+}
+#copy{
+    margin-left: 30px;
+    font-weight: 200;
+}
